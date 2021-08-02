@@ -3,24 +3,25 @@
 
 以下現在上げられているコードです．（PyPyとPythonはあまり気にしなくても良いですが，PythonでTLEになるときはPyPyを試してみてください．）
 
-| 問題番号 | 解答済み |
-| :--: | :--: |
-| 002 | PyPy, C++ |
-| 004 | PyPy |
-| 007 | Python, C++ |
-| 008 | Python |
-| 010 | Python |
-| 014 | Python, C++ |
-| 016 | PyPy, C++ |
-| 018 | Python |
-| 020 | Python |
-| 022 | Python |
-| 024 | Python, C++ |
-| 027 | Python, C++ |
-| 032 | PyPy |
-| 033 | Python, C++ |
-| 038 | PyPy |
-| 055 | PyPy, C++ |
-| 061 | Python, C++ |
-| 067 | Python, C++ |
-| 078 | Python, C++ |
+| 問題番号 | 解答済み | 備考 |
+| :--: | :--: | :--:|
+| 002 | PyPy, C++ |  |
+| 004 | PyPy |  |
+| 007 | Python, C++ |  |
+| 008 | Python |  |
+| 010 | Python |  |
+| 014 | Python, C++ |  |
+| 016 | PyPy, C++ |  |
+| 018 | Python |  |
+| 020 | Python |  |
+| 022 | Python |  |
+| 024 | Python, C++ |  |
+| 027 | Python, C++ |  |
+| 032 | PyPy |  |
+| 033 | Python, C++ |  |
+| 038 | PyPy |  |
+| 044 | PyPy | 解説とは違う強引な方法．(配列をdequeで保存する．PythonではTLE) |
+| 055 | PyPy, C++ |  |
+| 061 | Python, C++ |  |
+| 067 | Python, C++ |  |
+| 078 | Python, C++ |  |
