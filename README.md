@@ -9,12 +9,12 @@
 | 004 | PyPy |  |
 | 007 | Python, C++ |  |
 | 008 | Python |  |
-| 010 | Python |  |
+| 010 | Python | 累積和 |
 | 014 | Python, C++ |  |
 | 016 | PyPy, C++ |  |
 | 018 | Python |  |
 | 020 | Python |  |
-| 022 | Python |  |
+| 022 | Python | ユークリッドの互除法 |
 | 024 | Python, C++ |  |
 | 027 | Python, C++ |  |
 | 032 | PyPy |  |
@@ -22,7 +22,9 @@
 | 038 | PyPy |  |
 | 044 | PyPy | 解説とは違う強引な方法．(配列をdequeで保存する．PythonではTLE) |
 | 046 | Python |  |
+| 048 | Python |  |
+| 050 | Python | 動的計画法 |
 | 055 | PyPy, C++ |  |
-| 061 | Python, C++ |  |
+| 061 | Python, C++ | deque |
 | 067 | Python, C++ |  |
 | 078 | Python, C++ |  |
