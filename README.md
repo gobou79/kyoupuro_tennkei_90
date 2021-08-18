@@ -24,6 +24,7 @@
 | 046 | Python |  |
 | 048 | Python |  |
 | 050 | Python | 動的計画法 |
+| 052 | Python |  |
 | 055 | PyPy, C++ |  |
 | 061 | Python, C++ | deque |
 | 067 | Python, C++ |  |
