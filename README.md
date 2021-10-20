@@ -29,4 +29,5 @@
 | 061 | Python, C++ | deque |
 | 064 | Python | |
 | 067 | Python, C++ |  |
+| 069 | Python | pow関数 |
 | 078 | Python, C++ |  |
