@@ -30,4 +30,5 @@
 | 064 | Python | |
 | 067 | Python, C++ |  |
 | 069 | Python | pow関数 |
+| 075 | Python |  |
 | 078 | Python, C++ |  |
