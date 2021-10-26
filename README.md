@@ -31,4 +31,5 @@
 | 067 | Python, C++ |  |
 | 069 | Python | pow関数 |
 | 075 | Python |  |
+| 076 | Python | 二分探索 |
 | 078 | Python, C++ |  |
