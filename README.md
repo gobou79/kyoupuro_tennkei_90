@@ -12,6 +12,7 @@
 | 007 | Python, C++ |  |
 | 008 | Python |  |
 | 010 | Python | 累積和 |
+| 012 | Python | Union-Find |
 | 014 | Python, C++ |  |
 | 016 | PyPy, C++ |  |
 | 018 | Python |  |
