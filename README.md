@@ -19,6 +19,7 @@
 | 020 | Python |  |
 | 022 | Python | ユークリッドの互除法 |
 | 024 | Python, C++ |  |
+| 026 | Python | 二部グラフ |
 | 027 | Python, C++ |  |
 | 032 | PyPy |  |
 | 033 | Python, C++ |  |
