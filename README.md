@@ -24,6 +24,7 @@
 | 028 | Python | いもす法 |
 | 032 | PyPy |  |
 | 033 | Python, C++ |  |
+| 034 | Python |  |
 | 038 | PyPy |  |
 | 044 | PyPy | 解説とは違う強引な方法．(配列をdequeで保存する．PythonではTLE) |
 | 046 | Python |  |
