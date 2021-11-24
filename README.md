@@ -26,6 +26,7 @@
 | 033 | Python, C++ |  |
 | 034 | Python |  |
 | 038 | PyPy |  |
+| 042 | Python |  |
 | 044 | PyPy | 解説とは違う強引な方法．(配列をdequeで保存する．PythonではTLE) |
 | 046 | Python |  |
 | 048 | Python |  |
